@@ -1,0 +1,23 @@
+{
+  "name": "docker-express",
+  "version": "1.0.0",
+  "description": "\"# docker-express-freecodecamp-course\" \r https://youtu.be/9zUHg7xjIqQ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estebanovic/docker-express-freecodecamp-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/estebanovic/docker-express-freecodecamp-course/issues"
+  },
+  "homepage": "https://github.com/estebanovic/docker-express-freecodecamp-course#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
